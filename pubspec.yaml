@@ -1,0 +1,119 @@
+name: whats_up
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.0.7
+  slide_to_act: ^2.0.2
+  tuple: ^2.0.0
+  get: ^4.7.2
+  firebase_core: ^3.14.0
+  firebase_auth: ^5.6.0
+  auto_size_text_field: ^2.2.0
+  cloud_firestore: ^5.6.9
+  json_annotation: ^4.8.1
+  auto_size_text: ^3.0.0
+  image_picker: ^1.1.2
+  firebase_database: ^11.3.9
+  uuid: ^4.5.1
+  intl: ^0.20.2
+  avatar_stack: ^3.0.0
+  cached_network_image: ^3.4.1
+  emoji_picker_flutter: ^4.3.0
+  geolocator: ^10.1.0
+  url_launcher: ^6.2.5
+  google_maps_flutter: ^2.6.0
+  file_picker: ^10.2.0
+  googleapis: ^14.0.0
+  googleapis_auth: ^2.0.0
+  dio: ^5.4.0
+  permission_handler: ^11.3.1
+  path_provider: ^2.1.1
+  flutter_cached_pdfview: ^0.4.3
+  webview_flutter: ^4.4.1
+  just_audio: ^0.9.35
+  audio_waveforms: ^1.0.4
+  font_awesome_flutter: ^10.8.0
+  chat_bubbles: ^1.7.0
+  flutter_callkit_incoming: ^2.5.4
+  lottie: ^3.3.1
+  vibration: ^3.1.3
+  record: ^6.0.0
+  flutter_local_notifications: ^19.3.1
+  zego_uikit_prebuilt_call: ^4.17.6
+  zego_uikit_signaling_plugin: ^2.8.15
+  modal_bottom_sheet: ^3.0.0
+  image_gallery_saver_plus: ^4.0.1
+  smooth_page_indicator: ^1.2.1
+  metadata_fetch: ^0.4.2
+  sign_in_button: ^4.0.1
+  scrollable_positioned_list: ^0.3.8
+  google_sign_in: ^6.3.0
+
+
+
+
+  mime: ^1.0.4
+
+  # ✅ Dùng bản sửa không có Apple login
+  supabase_flutter: ^2.0.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.14.3"
+  
+  build_runner: ^2.4.8
+  json_serializable: ^6.7.1
+  flutter_lints: ^5.0.0
+  path_provider: ^2.1.5
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+    - assets/recording.json
+    - assets/Delete_message.json
+    - assets/wave_loading.json
+    - assets/splace.json
+    - assets/clock_loading.json
+    - assets/circle_loading.json
+    - assets/like.json
+    - assets/submit.json
+    - assets/welcome.json
+    
+    
+
+  fonts:
+    - family: Roboto_Condensed
+      fonts:
+        - asset: assets/fonts/Roboto_Condensed-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Roboto_Condensed-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Roboto_Condensed-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Roboto_Condensed-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Roboto_Condensed-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Roboto_Condensed-ExtraBold.ttf
+          weight: 800

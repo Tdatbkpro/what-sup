@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "769652525469",
+    "firebase_url": "https://what-sup-b84ee-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "what-sup-b84ee",
+    "storage_bucket": "what-sup-b84ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769652525469:android:b320465ebfe7dd5eb24774",
+        "android_client_info": {
+          "package_name": "com.datbkpro.whatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769652525469-esta5ti8kat0gcl1iqmvcu8j0tcp489k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datbkpro.whatsup",
+            "certificate_hash": "80f7a650df4231eac0f4e7e6b218b3bc88799330"
+          }
+        },
+        {
+          "client_id": "769652525469-tv839hrjjb40ssnav5rirvnpit04883m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad3Q47aqfvHkb5mguROlGgz5aXY1opWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769652525469-3naos90oviklbumbrdfa1q235otkoi7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769652525469-hrdt18n5hvi0o3fi9q319urb4u1bvo91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsUp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769652525469:android:4f9254c1dc011a74b24774",
+        "android_client_info": {
+          "package_name": "com.example.whats_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769652525469-tsrgrdsn8pd0uqt1cfhhkb53f1aqb706.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whats_up",
+            "certificate_hash": "80f7a650df4231eac0f4e7e6b218b3bc88799330"
+          }
+        },
+        {
+          "client_id": "769652525469-tv839hrjjb40ssnav5rirvnpit04883m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad3Q47aqfvHkb5mguROlGgz5aXY1opWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769652525469-3naos90oviklbumbrdfa1q235otkoi7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769652525469-hrdt18n5hvi0o3fi9q319urb4u1bvo91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsUp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
